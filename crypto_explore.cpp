@@ -3,6 +3,10 @@
 
 using namespace std;
 
-int main(){
-	cout << "Bonsoir Elliot"<< endl;
-}
+
+class transaction{
+	public:
+
+	private:
+
+};
